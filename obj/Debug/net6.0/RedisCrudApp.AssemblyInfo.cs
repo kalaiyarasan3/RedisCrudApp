@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedisCrudApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bef6b782dd7afefa77b882121cad0378d9a627b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedisCrudApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedisCrudApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
